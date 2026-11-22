@@ -1,0 +1,2215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Conosci Natsuki Subaru già da prima?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Cosa vuoi dire?!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Eh!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003347Z" creationid="demon" creationdate="20261118T003347Z">
+        <seg>[fuzzy]Come hai combinato questo disordine per Emilia-sama?"&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Il ragazzo si mostrò tradito per un momento, prima di infuriarsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Felt-sama, per favore.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Fufuf~!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T003214Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;[fuzzy]"Fufuf~! Pensi che io sia bloccata con tutti voi?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"L'unico posto in cui potrei pentirmi di andare è vicino a te o lascarti baciare la mia scarpa invece di guardarla, sudicia mezzo-demone.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Mi dispiace interrompervi, Felt-sama, Karsten-sama.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Non ha molto senso che &lt;em&gt;tutti&lt;/em&gt; noi siamo finiti nello stesso posto, non pensate?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Non parlare come se fosse colpa del capo, hai capito?!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Non posso credere che il fratellone si farebbe fuori in quel modo." Felt scosse la testa dalla tristezza mentre ricordava l'immagine del suicidio del ragazzo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Non vi permetterò di macchiare il nome del mio fantastico cavaliere dandogli del codardo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Non è semplicemente il fatto che &lt;em&gt;noi&lt;/em&gt; fossimo tutti morti a terra." Ignorò il fatto che il suo cavaliere trasalì e strinse i suoi pugni più forte.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Q-Quello che intendevo era che avete ignorato il resto di questa visione… Potremmo imparare qualcosa-"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Sarebbe saggio smettere di incitare scontri inutili tra i tuoi alleati dal momento che siamo tutti insieme in questa prigione."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Scusami?" La principessa mercante chiese con serietà, quasi ringhiando sotto al respiro.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Se quel tipo di mostro ha ucciso Rein allora nessuno di noi ha una chance contro di lui."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Seh, ho incontrato l'idiota in precedenza.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Sono d'accordo con te.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Svegliati, Subaru… " La voce implorò, sofferenza e incredulità chiare nel suo tono.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Sì, questo imbecille mi ha salvato da una signora davvero pericolosa alcuni mesi fa.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;em&gt;È&lt;/em&gt; effettivamente una bassa probabilità quella che tutte queste personalità fossero presenti in un luogo così remoto.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005103Z" creationid="demon" creationdate="20261118T003036Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;[fuzzy]Capitolo 2: Ep 1 Director's Cut &lt;p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"&lt;em&gt;Tutti&lt;/em&gt; in questa stanza sembrano essere stati massacrati da questo assassino… Eccetto Subaru-dono." Un vecchio uomo con penetranti occhi blu mormorò attentamente e con serietà.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"C'ho già provato per un po' ragazzetta!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Calmati Mimi!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Capisco.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Cavolo, questo ragazzino sembra tirarsi addosso sempre un sacco di problemi, huh?" Un uomo-cane dall'aspetto esuberante scherzosamente con un sorrisetto, provando ad alleggerire l'atmosfera.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Che cazzo?!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Che noia!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Che troia." Felt soffiò grezzamente mentre fissava la nobile fastidiosa.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Cos'era quello?!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Cos'è questo, oserei dire?!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Hey, è nella mia testa!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Hm, sono d'accoooordo che la possibilità che tutti noi fossimo andati a fare un picnic e che avessimo incontrato improvvisamente questa bestia sia altamente improbaaaaabile." Un uomo dall'aspetto eccentrico e la faccia da clown diede voce al suo assenso mentre la sua utile domestica dai capelli rosa annuì cortesemente.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Hmph!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Ho pensato a tutti gli utilizzatori delle arti magiche e ai mostri mitici che potessero assomigliare a quella… creatura.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Il mio eroe è sempre stato così…" Rem sospirò mentre guardava il ragazzo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Il mostro lo conosceva in qualche modo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Immagino che non abbiate ancora trovato un modo per uscire da qui, vero, Barielle?" Crusch offrì diplomaticamente mentre fissava saldamente lo schermo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"La mia morningstar!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Le vostre parole sono fin troppo gentili, mia signora.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Ma… il vostro cavaliere non era l'unico cadavere visibile…"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Mostrati!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Non c'è niente da imparare!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Non farai più del male al Subaru di Betty, infatti." Lo spirito ringhiò pericolosamente mentre si imprimeva a fuoco l'immagine del demonio nella mente.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Non è quello in punto, idiota."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Oh, davvero?" Crusch mostrò il suo compiacimento verso le buffonate eroiche del ragazzo nascondendo il suo sorriso facendo finta di grattarsi il mento.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Oh, questo sarà interessante~" Il mago mormorò dalla sua sedia.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005101Z" creationid="demon" creationdate="20261118T005101Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Osi dirmi come parlare, schifosa mezzosangue?" Priscilla sbraitò mentre fissava Emilia in disgusto.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Pensate che la visione fosse falsa, Felt-sama?" Una ragazza seria parlò guardando la ragazza bionda intensamente.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Per favore tenete la conversazione concentrata, dobbiamo parlare di quello che lo schermo ci mos-"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Perdonatemi." Felt alzò lentamente lo sguardo verso la duchessa, che stava guardando con interesse e acuta osservazione.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Potresti piegare cosa sta succedendo qui?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Prova a rompere il muro con entrambi i tuoi pugni!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Questo idiota qui è la persona più forte in vita." Felt disse alla duchessa e al pubblico che ascoltava con un tono di ovvietà.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Questo è stupido!" Una forte voce di una giovane ragazza rombò in frustrazione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Scusami!" Anastasia urlò dalla rabbia e dal fastidio guardando lo schermo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Scusatemi, Priscilla-sama.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Scusatemi." Un educato e nervoso giovane uomo parlò tenendo il suo cappello al petto mentre si inchinava verso le due signore dalla sua posizione.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Seh, niente in questo mondo potrebbe uccidere Rein così facilmente." Alle parole della sua signora, l'affascinante cavaliere dai capelli rossi non poté che chinare il capo modestamente.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Seh, seh, sei umile.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Sembrate che tutti abbiate dimenticato qualcosa di importante…" Al alzò la mano per un momento per attirare l'attenzione degl'altri.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Subaru-kun…" La domestica sospirò mentre guardava la sua sagoma addormentata da dietro.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Subaru… " Una voce come ricoperta da una campana argentata parlò.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Sììììì, parlando di Natsuki Subaru-" Anastasia provò a riacquisire il controllo della conversazione con un rapido intervento ma la sua mente non poteva anticipare il nuovo fastidioso interlocutore che la interruppe.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Tipico Barusu, hmph!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;"Whoa!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004219Z" creationid="demon" creationdate="20261118T004204Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;em&gt;"Perché parla come se potesse predire la nostra storia semplicemente guardando intorno alla città?" Julius chiese con il petto gonfio e i suoi occhi puntati su Subaru per la sua attitudine irrispettosa; non apprezzando come il ragazzo stesse ammucchiando Lugunica con il resto del mondo dicendo, 'guerre e altro'.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004119Z" creationid="demon" creationdate="20261118T004048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Perché parla come se potesse predire la nostra storia semplicemente guardando intorno alla città?" Julius chiese con il petto gonfio e i suoi occhi puntati su Subaru per la sua attitudine irrispettosa; non apprezzando come il ragazzo stesse ammucchiando Lugunica con il resto del mondo dicendo, 'guerre e altro'.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;em&gt;Beatrice scosse semplicemente la testa con un'espressione salda che diceva che quell'argomento andava ignorato immediatamente… Non voleva dilungarsi sul perché il mondo di Subaru ancora persino più razzialmente diviso del loro… Né la stupidità della sua razza per aver scelto scuse così patetica per andare in guerra.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004136Z" creationid="demon" creationdate="20261118T004136Z">
+        <seg>&lt;p&gt;&lt;em&gt;Beatrice scosse semplicemente la testa con un'espressione salda che diceva che quell'argomento andava ignorato immediatamente… Non voleva dilungarsi sul perché il mondo di Subaru ancora persino più razzialmente diviso del loro… Né la stupidità della sua razza per aver scelto scuse così patetica per andare in guerra.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Alle parole della ragazza, molti espressero il loro dispiacere e la loro rabbia mandando verso la donna sguardi bollenti e labbra ringhianti.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Anastasia si girò lentamente continuando a sorridere.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Ciò fece quasi cadere la strega ridente.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Cosa era successo lì?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Dei denti affilati spuntarono mentre delle iridi color smeraldo puntavano verso il massiccio uomo-bestia.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;E fu così che… l'umore nella stanza si rabbuiò improvvisamente mentre Otto lasciava che le sue parole cadessero pesanti sul teatro.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Emilia fissò gelidamente verso la sgradevole ragazza sopra di lei, senza provare paura per il fuoco che quegli occhi scarlatti gli stavano lanciando.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Emilia mantenne saldo il suo sguardo gelido, i suoi occhi si socchiusero e la sua presa si strinse alla mano del suo cavaliere mentre fronteggiava la sgradevole nobile.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Emilia poté soltanto sorridere teneramente a quella storia, il ricordo del suo primo incontro con il ragazzo le mandava una sensazione soffice e calda allo stomaco.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Emilia rabbrividì e si risedette mentre teneva la mano di Subaru nella sua mano tremante.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Emilia si trovò ad essere d'accordo con la piccola ragazza mentre anche lei fissava Priscilla con odio nei suoi occhi, insieme a Rem, Garfiel e Beatrice.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Emilia trovò finalmente più coraggio nel tenere la mano floscia di Subaru.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Era crudele.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Era questo quello che era rimasto di lui dopo che era caduta vittima dell'inganno di Gola?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Era soltanto una domestica.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Felix e Al sussultarono improvvisamente come se fossero stati colpiti da una verità dolorosa.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Felt alzò lo sguardo verso la nobile fanciulla dai capelli verdi e fece una smorfia.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Felt annuì e puntò il pollice verso il ragazzo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Felt diede alla sua rivale per il trono dai capelli verdi una smorfia mentre appoggiava il suo peso su un fianco.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Felt e Anastasia furono coloro che vennero colpite dalle sentenze della voce.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Felt incrociò semplicemente le braccia e sbatté la punta del suo stivale a terra per pensare.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Garfiel guardò alla ragazza con un sorrisetto orgoglioso e uno sguardo lucente mentre ascoltava quanto fantastico il suo capo fosse davvero.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;I suoi occhi scarlatti vagarono lentamente verso il ragazzo svenuto nella prima fila della stanza.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Il cavaliere elegante diede solo uno sguardo affilato in risposta allo schermo lampeggiante mentre il loro rapitore parlava con voce calma e tranquilla.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Il piccolo spirito loli seduto di fianco al ragazzo sbuffò semplicemente e scosse la testa.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Il piccolo spirito non si era mai sentita spaventata in tutti i suoi miserabili anni di esistenza.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Il suo Subaru era felice quando era vicino a lei.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Il suo Subaru era vivo, felice e seduto al &lt;em&gt;suo&lt;/em&gt; fianco… come dovrebbe essere.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Il suo bell'accompagnatore dai capelli rossi la seguì e prese a sedersi di fianco a lei.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Julius e Wilhelm strinsero i loro pugni mentre sentivano lo schermo parlare verso di loro.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;L'atmosfera si fece ancora più cupa quando tutti si ricordarono come i loro corpi erano stati mostrati, smembrati e sparpagliati sull'erba in un'orrida decorazione.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;L'interlocutore ammaliante fu corrisposto da un uno sbuffo infastidito mente la giovane ragazza dietro di lui si girava e sbatteva i piedi contro la sua sedia dietro alla fila.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;La maggior parte era dei presenti era incantata dalla storia mentre altri nella stanza sorridevano caldamente e orgogliosamente al racconto del loro amico e collega dai capelli neri.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;La mezz'elfa sorrise per un momento, lo stress e la visione completamente dimenticati mentre prendeva l'occasione per guardare quanto fosse adorabile il ragazzo mentre dormiva.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;La piccola cameriera demone scosse semplicemente la testa per liberarsi del pensiero e si concentrò su qualcos'altro.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;La ragazza fece un passo in dietro dallo shock al tono sarcastico che la voce aveva appena assunto con lei.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Le due ragazze demone e il cavaliere dai capelli rossi si misero sull'attenti verso lo schermo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Le luci lampeggianti dello schermo illuminarono il teatro mentre mostrava visioni ed immagini minacciose e indesiderabili a grande velocità.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Le sue lacrime mostravano il suo disagio e la sua agitazione per gli eventi sconosciuti che erano stati mostrati.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Ma fu interrotta da una noncurante ragazza bionda.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Mentre Reinhard si mordeva il labbro dal disagio e dalla preoccupazione per l'esagerata percezione che la sua signora aveva delle sua abilità, la ragazza si stava già rivolgendo alla duchessa e stava spiegando il suo ragionamento senza preoccupazione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Mentre la duchessa dai capelli verdi si teneva il mento pensierosa, qualcun altro decise di sfidare le parole della ragazza bionda.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Mentre la voce faceva piovere su di loro quelle parole pesanti, molti rimasero immobili congelati dallo shock per il tono ostile della voce.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005103Z" creationid="demon" creationdate="20261118T005103Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Mentre la voce parlava al pubblico, molti iniziarono a sentire un senso di sospetto e paura insinuarsi dentro di loro.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Molti annuirono alla logica della spiegazione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Molti nel teatro erano in una posizione di completa confusione per quello a cui avevano assistito.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Molti trovarono disturbante come avevano perso di vista le loro armi in quel modo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Nella visione… il suo cavaliere stava fronteggiando un mostro, da solo, e i cadaveri di tutti erano intorno a lui.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Nessuno era arrabbiato quanto il ragazzo biondo dai denti affilati seduto affianco a Otto, in piedi di fianco a lui.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Nessuno era furioso come una certa domestica dai capelli blu.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Non avrebbe creduto per un secondo che il suo eroe avesse sofferto un fato tanto orribile come la morte con lei fuori disposizione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Non capendo cosa lo smidollato dall'aspetto sgradevole stesse dicendo, Felt decise di fissarlo chiedendo una spiegazione.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Non era possibile che il suo fantastico cavaliere sarebbe mai ricorso a farsi del male in quel modo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Non era reale.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Non poteva essere reale… Lei era viva… Il suo Subaru era vivo…&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Non poteva…&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Nonostante fosse morte di fianco alla sua amata sorella… Rem non poteva credere che tale visione potesse accadere.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Ogni candidata e cavaliere fissò lo schermo lampeggiante, espressioni serie e pronte alla battaglia in mostra mentre aspettavano che qualsiasi cosa fosse quella voce si rivelasse.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Otto scosse la testa dall'esasperazione ma tenne un piccolo sorriso di sollievo per l'abitudine del suo amico di fare l'eroe nonostante fosse un coglione tutto il tempo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Portarli via di lì sarebbe un grande colpo per il morale di tutti.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Priscilla fece una profonda smorfia di disgusto, mordendosi il labbro dalla furia che sentiva verso le parole che le venivano rivolte.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Priscilla rise semplicemente ad alta voce e guardò Emilia dall'alto verso il basso con letizia e divertimento chiari nei suoi occhi.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Quando Anastasia finalmente ottenne il controllo della conversazione, il suo orrore e la sua disperazione non sarebbero potute arrivare in un momento migliore perdendo la presa sulla situazione ancora una volta quando una voce calma e forte riempì il teatro.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Quello era ciò che la mezz'elfa aveva concluso.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Reinhard non era l'unico a sentirsi arrabbiato o in qualche modo infastidito per il suo fallimento e la sua incompetenza nel fermare il mostro.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Rem e Garfiel guardarono alla ragazza con interesse e stupore.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Rem poteva solo provare a controllare il respiro mentre stringeva stretto il suo vestito.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Ricardo notò anche che non era solo il ragazzo ad essere scosso dai precedenti eventi accaduti sulla strana finestra.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Sorprendendo tutti, Emilia la fissò a sua volta tenendo la mano del suo cavaliere.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Sussultando alla durezza che la ragazza gli stava mostrando, Otto balbettò nervosamente.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Tutti nella stanza saltarono collettivamente nel momento in cui il sospettato iniziò a parlargli.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Un giovane ragazzo biondo dall'aspetto arruffato urlò dall'agitazione mentre era seduto al suo posto e tenendosi la testa tra le mani.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Un interlocutore affascinante si intromise furtivamente per fermare il litigio dallo scatenarsi.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Un singolo applauso risuonò per tutto il teatro, la regina mercante vestita sontuosamente tenne un'espressione seria e infastidita mentre si guardava intorno.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Un uomo con l'elmo e un braccio solo rise vivacemente divertito dalla vista del fastidio di Felt nei confronti dell'attitudine di umiltà del suo cavaliere.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Un uomo vestito da clown con un largo sorriso divertito sollevò un sopracciglio sentendo che le parole erano dirette a lui.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005101Z" creationid="demon" creationdate="20261118T005101Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Una bellissima ragazza dai capelli d'argento con le orecchie a punta veniva mostrata parlare all'innocente ragazzo addormentato affianco a lei.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Una corta risata venne fuori da una ragazza dall'aspetto innocente vestita con una pelliccia e una sciarpa di volpe.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;Uno sguardo morbido, quasi adorante era presente sul suo viso mentre riprendeva a parlare con tono reminiscente.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;"Subaru?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003350Z" creationid="demon" creationdate="20261118T003350Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt;&lt;strong&gt;"Così non va… Non va per nulla…" La persona parlò mentre si affaticava e rantolava dal dolore.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Emilia e la sua fazione si sporsero in fretta con attenzione e preoccupazione riconoscendo quello che la ragazza dai capelli blu aveva già fatto.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;"Un regno in cui gli umanoidi sono ovunque e probabilmente anche guerre e avventure."&lt;/strong&gt;
+&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004400Z" creationid="demon" creationdate="20261118T004400Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;*THUMP!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003354Z" creationid="demon" creationdate="20261118T003354Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt; &lt;strong&gt;*THUMP!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Ah, Anastasia Hoshin.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T003305Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;[fuzzy]&lt;p&gt; &lt;strong&gt;Ah, Anastasia Hoshin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Ah, sì.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Capitolo 2: Ep 1 Director's cut&lt;/strong&gt;
+&lt;/p&gt;&lt;hr&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005040Z" creationid="demon" creationdate="20261118T005040Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco i vostri crimini.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005101Z" creationid="demon" creationdate="20261118T005101Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco i vostri piani.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco i vostri rimpianti.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco i vostri veri colori.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco il vostro egocentrismo.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco la vostra arroganza.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005100Z" creationid="demon" creationdate="20261118T005100Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Conosco le vostre colpe.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Favore?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003307Z" creationid="demon" creationdate="20261118T003307Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt;"Il mondo va in mio fav-"&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Lasciate che vi dica questo…&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005101Z" creationid="demon" creationdate="20261118T005101Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Le mie scuse per la lunga attesa.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Non mi importa.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005101Z" creationid="demon" creationdate="20261118T005101Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Non mi interessa niente di tutto questo.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005102Z" creationid="demon" creationdate="20261118T005102Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Non siete niente per me oltre che prigionieri.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005102Z" creationid="demon" creationdate="20261118T005102Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Potete darvi delle arie quanto volete.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005101Z" creationid="demon" creationdate="20261118T005101Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Potete fare del vostro meglio per contenere il disdegno l'uno per l'altro e aiutarvi tra di voi.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005102Z" creationid="demon" creationdate="20261118T005102Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Potete mostrarvi forti e bravi a regnare quando volete.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005102Z" creationid="demon" creationdate="20261118T005102Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Prometto che le vostre armi sono al sicuro.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;So chi siete, sì.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Suddenly turning to see what the shouting was about, his sharp eyes quickly fell on a situation causing panic through the crowed of civilians around him.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003414Z" creationid="demon" creationdate="20261118T003414Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt; &lt;strong&gt;Suddenly turning to see what the shouting was about, his sharp eyes quickly fell on a situation causing panic through the crowed of civilians around him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Sì?&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Annoiata dal loro blaterare e disgustata dal soggetto.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avresti un codardo come schiavo e noi ci libereremmo di entrambi voi due." La ragazza rise in modo snob mentre sguardi arrabbiati riempirono le facce di coloro che guardavano la vicenda.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Betty aveva promesso che sarebbe stata la sua protettrice.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calmati, amico!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capitolo 2: Ep 1 Director's Cut</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005040Z" creationid="demon" creationdate="20261118T005040Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come se fosse infastidito da loro.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005103Z" creationid="demon" creationdate="20261118T005103Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come se il mostro stesse mostrando il suo divertimento con il loro sangue.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Completamente immaginifico.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conosco i vostri segreti e i vostri obiettivi.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Di fronte ai vari cospiratori e partecipanti al trono rubino, aveva impostato l'atmosfera per una conversazione che veniva ignorata e quasi odiata.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doveva sembrare il più autoritaria possibile difronte agli altri contendenti dopo tutto.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dubito che che ci trascineresti tutti qui senza darci una spiegazione."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E sì, anche i vostri spiriti stanno bene e sono sotto custodia, per favore non preoccupartene Julius.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Entrambi furono costretti a ricordare le cose orribili alle persone di cui si fidavano e a cui tenevano.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Era caduta solo per causare orrore nella persona per cui viveva e per cui sarebbe morta?&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gli sembri vicina visto che lo chiami fratellone."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grazie per avercelo detto.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ha avuto il fegato di dirmi che c'è sempre qualcosa da aspettarsi dalla vita prima di buttarsi nel pericolo per darmi il tempo di scappare."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I suoi occhi sembravano stanchi e disperati mentre guardava in basso verso il ragazzo al suo lato.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il calore di Emilia fuoriusciva dai suoi occhi ametista mentre teneva la mano del suo cavaliere, in modo confortevole per la sua sicurezza.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il calore e la vicinanza cancellavano completamente il senso di inquietudine e allarme che la visione le aveva suscitato.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il mondo mi vuole qui per una ragione e quindi la vedrò.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il ricordo del suo amato &lt;em&gt;pugnalarsi&lt;/em&gt; era radicato nella sua memoria…&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il ricordo di cosa il suo contraente dovette sopportare da solo mentre tutti i suoi cari erano morti intorno a lui era il peggio… ma quella scena in cui si pugnalò… era la più inquietante.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il suo cavaliere di fianco a lei fissava intensamente alla finestra luminosa mentre restava in guardia.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il suo nervosismo e la sua paura quasi dissipati immediatamente nel momento in cui i suoi polpastrelli vennero a contatto con lui in una calda e protettiva stretta amorevole.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Il suo sorriso era malevolo e sinistro.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its my chance!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003414Z" creationid="demon" creationdate="20261118T003414Z">
+        <seg>[fuzzy]She couldn't help but feel fondly for him, though knowing how reckless and idiotic he can be.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;strong&gt;"This is it!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La crudezza e l'orrore commessi nei confronti del suo Subaru erano più che abbastanza per portarla alle lacrime.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La necessità di calma e persistenza scorrevano sopra il suo orgoglio.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La preoccupazione e la confusione erano a loro volta chiari come il sole sulla faccia ferita e agitata del ragazzo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La rabbia che ribolliva dentro di lei era condivisa da molte delle persone che stringevano stretto il suo contraente.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La sua espressione era di pura contemplazione e una punta di fastidio.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La sua posizione le permetteva di guardarlo ma non le permetteva di toccarlo senza sembrare scandaloso.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La sua rabbia amplificava il suo coraggio.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>La sua rabbia non avrebbe portato a niente qui a meno che non pianificasse di far fare brutta figura al suo grazioso signore e a sua sorella di fronte a tutte quelle importanti personalità presenti.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lasciami stare!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Le vostre armi vi sono state confiscate.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lei era felice quando era seduta vicino a lui.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lei era… Lei era morta…&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lo avrebbe protetto dal male.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lui aveva lei e il resto dei suoi amici.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma non apprezzo il modo di cui parlate del nome del &lt;em&gt;mio&lt;/em&gt; cavaliere." La ragazza dai capelli d'argento diede voce in fretta alla sua rabbia con un tono serio che andava di pari passo con la sua espressione fredda.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma non riesco a ricordare niente che combaci con la descrizione." Il cavaliere reale parlò con tono deluso, guardando in basso con i suoi occhi blu in disappunto.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma non riesco a vedere come il vostro ragionamento confuti quello che abbiamo visto accadere."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma principalmente aveva lei.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma se volessi davvero lasciare questo posto allora tutto quello che devo fare è pensarlo e il mondo si prodigherà ad esaudire il mio desiderio." La ragazza arrogante, snob e presuntuosa sorrise maliziosamente ai popolani che la guardavano male e si sventagliò con soddisfazione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma temo abbiate troppa fiducia in me-"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mentre vari sguardi si posavano su di lui, iniziò a spiegare il suo ragionamento.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mi ha salvato la vita."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mi sembra una cosa inventata." L'uomo da un braccio solo alzò le spalle e rimase in silenzio, concludendo la sua spiegazione al gruppo.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Molti dei presenti nella stanza sembravano sorpresi da questa rivelazione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005052Z" creationid="demon" creationdate="20261118T005052Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Niente di quello che veniva mostrato poteva essere creduto.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non avrebbe &lt;em&gt;&lt;strong&gt;mai&lt;/strong&gt;&lt;/em&gt; lasciato che qualcuno scoprisse la sua connessione con i maledetti fattori.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non era reale in ogni caso!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non ha senso che Betty si perda un evento simile, infatti!" La piccola ragazza bionda dai capelli a spirale urlò infuriata e confusa mentre teneva stretto il braccio del ragazzo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non lasciate che le parole vi portino in una direzione di cui potreste pentirvi." Mentre Emilia lanciava la sua ovvia minaccia con una voce determinata, molti intorno a lei annuirono con la testa in consenso, da Rem a Garfiel e Otto fino a Felt e Crusch.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non lo lascerebbe mai affrontare qualcosa del genere da solo!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non più di coloro seduti intorno al giovane ragazzo dai capelli neri.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non posso permettere che vi uccidiate a vicenda o tutto questo sarebbe invano.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non poteva dilungarsi su qualcosa che le veniva mostrato da una strana finestra controllata dalle persone che li avevano &lt;em&gt;rapiti&lt;/em&gt; per farli sedere lì.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005043Z" creationid="demon" creationdate="20261118T005043Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Non volevo insultare il tuo amico in nessun modo!" Ricardo tenne le mani sollevate nervosamente e si scusò pazientemente.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ogni cavaliere, combattente e amico presente nella stanza stringeva i propri pugni dalla rabbia per non essere stato in grado di proteggere coloro che avevano giurato di proteggere.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opportunistica e pronta a prendere vantaggio della situazione come sempre.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005058Z" creationid="demon" creationdate="20261118T005058Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pensi che io sia bloccata con tutti voi?!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Penso che dovremmo dare a tutti un po' più di tempo per digerire… la tragedia che questa visione ci ha mostrato."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché Subaru-kyun dovrebbe conoscere qualcuno di così potente?" Felix mormorò dalla sua sedia mentre mostrava un'espressione di sfiducia per un momento.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché dovremmo credere a qualunque cosa questa stupida finestra ci mostra?" La ragazza bionda dagli occhi scarlatti urlò mentre scendeva dalla sedia con un'espressione scontenta chiara sul suo viso.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché hai fatto questo a Subaru-kun?!" Rem urlò dalla rabbia mentre si mosse per impugnare la sua morningstar… Solo per trovare niente nelle sue tasche.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché il suo fantastico cavaliere si sarebbe pugnalato senza ragione?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché l'aveva lasciato a combattere quel mostro orribile da solo?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005044Z" creationid="demon" creationdate="20261118T005044Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché non la smetti con le politiche inutili e porti il tuo &lt;em&gt;cavaliere&lt;/em&gt; da qualche parte lontano da noi esseri superiori?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perché tutti stanno ripetendo il nome di quello schifoso popolano come se fosse importante nella discussione in qualche modo?!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perfino la spada del drago di Reinhard era stata presa, il che terrorizzava il cavaliere per le possibilità.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poteva vedere la furia negli occhi del ragazzo biondo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Qualunque cosa quel demonio fosse… Betty sarebbe stata pronta ad affrontarlo per il suo Subaru.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quanta splendida ingenuità mia cara calcia pietre!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005055Z" creationid="demon" creationdate="20261118T005055Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quasi l'intera fazione intorno al giovane dai capelli neri era sconvolta da questi eventi.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quell'intera visione era solo frutto dell'immaginazione.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quindi per favore non pensateci troppo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005057Z" creationid="demon" creationdate="20261118T005057Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quindi quella sarebbe una ragione sufficiente liquidare quello che abbiamo visto come una visione di finzione." Mentre l'intrigante ragazza dai capelli viola prendeva controllo della conversazione, sorrise in maniera accentuata provando ad attaccare un contenzioso che stava avendo.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005051Z" creationid="demon" creationdate="20261118T005051Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ricordare quella memoria non era un pensiero piacevole, né per lui né per la sua signora.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005047Z" creationid="demon" creationdate="20261118T005047Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Si poteva vedere un piccolo sorriso sulle sue labbra a causa del vizio del suo amato contraente di salvare coloro che avevano bisogno di aiuto.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So quali poteri possedete.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005059Z" creationid="demon" creationdate="20261118T005059Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sono d'accordo che Natsuki-sama non sembri il tipo di persona da semplicemente arrendersi e rinunciare alla propria vita in quel modo di fronte a un mostro del genere." Crusch annuì il capo in apprezzamento e osservò lo schermo lampeggiante di fronte a lei.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spero che vi siate tutti lamentati degli eventi che vi sono stati mostrati.&lt;/strong&gt;
+&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stai zitto."&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005048Z" creationid="demon" creationdate="20261118T005048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subaru è sempre stato un eroe che mette sempre la felicità degli altri prima della sua.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terrificante.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005045Z" creationid="demon" creationdate="20261118T005045Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ti dico che è tutto finto!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005049Z" creationid="demon" creationdate="20261118T005049Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tuttavia, alcuni non trovarono la sua battuta divertente come sperava.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutti abbiamo visto che cane codardo sia stato." Una ragazza dai capelli infuocati e dagli occhi scarlatti incrociò le gambe e si ventagliò gentilmente con un ventaglio rosso mentre guardava senza interesse al gruppo sotto di lei.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005054Z" creationid="demon" creationdate="20261118T005054Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Un'espressione di panico e paura stampata sulla sua faccia infantile.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005042Z" creationid="demon" creationdate="20261118T005042Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Un'espressione di rabbia e confusione si faceva spazio sul suo viso.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005046Z" creationid="demon" creationdate="20261118T005046Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usare il suo fascino inesistente su una ragazzina così giovane." Ram grugnì per quello che appariva essere disgusto ma il suo debole sorriso mostrava i suoi veri sentimenti riguardo alla faccenda.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005053Z" creationid="demon" creationdate="20261118T005053Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vedendo che niente poteva essere capito da queste immagini sfocate cha apparivano di fronte a loro, molti del gruppo preoccupato iniziarono a farsi domande sulla loro situazione.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005041Z" creationid="demon" creationdate="20261118T005041Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Voglio dire, perché saremmo dovuti essere tutti su un prato a caso?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005050Z" creationid="demon" creationdate="20261118T005050Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>È nella mia testa!"&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T005056Z" creationid="demon" creationdate="20261118T005056Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

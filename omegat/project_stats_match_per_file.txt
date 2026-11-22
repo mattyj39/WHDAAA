@@ -1,0 +1,24 @@
+18/11/26, 01:36
+File 1: Capitolo 2 Ep 1 Director's Cut.txt
+                                       	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	
+Ripetizioni all'interno di questo file:	     442	   951	                   3491	                 3510	
+Ripetizioni dagli altri file:          	       0	     0	                      0	                    0	
+Concordanza esatta:                    	      36	    70	                    317	                  346	
+95%-100%:                              	     405	  5514	                  26503	                30918	
+85%-94%:                               	     145	  1891	                   9735	                10966	
+75%-84%:                               	      90	  1771	                   9162	                10428	
+50%-74%:                               	     705	 13103	                  65912	                75569	
+Nessuna concordanza:                   	    1493	 34200	                 167954	               196113	
+Totali:                                	    3316	 57500	                 283074	               327850	
+
+Per tutti i file:
+                    	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	
+Ripetizioni:        	     442	   951	                   3491	                 3510	
+Concordanza esatta: 	      36	    70	                    317	                  346	
+95%-100%:           	     405	  5514	                  26503	                30918	
+85%-94%:            	     145	  1891	                   9735	                10966	
+75%-84%:            	      90	  1771	                   9162	                10428	
+50%-74%:            	     705	 13103	                  65912	                75569	
+Nessuna concordanza:	    1493	 34200	                 167954	               196113	
+Totali:             	    3316	 57500	                 283074	               327850	
+

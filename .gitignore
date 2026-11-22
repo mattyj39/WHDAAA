@@ -1,0 +1,12 @@
+# OmegaT generated output - regenerated with Ctrl+D
+target/
+
+# Backups and auto-save noise
+omegat/*.bak
+omegat/auto/
+omegat/omegat.log
+*.tmp
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+22/11/26, 21:58
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	    3316	 57500	                 283074	               327850	    1	
+Restanti:        	    2032	 39950	                 193165	               224019	    1	
+Univoci:         	    2847	 56522	                 279502	               324259	    1	
+Univoci restanti:	    2016	 39872	                 192761	               223596	    1	
+
+
+Statistiche file singoli:
+
+Nome del file                     	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri rimanenti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci rimanenti (senza spazi)	Caratteri totali (con spazi)	Caratteri rimanenti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci rimanenti (con spazi)	
+Capitolo 2 Ep 1 Director's Cut.txt	           3316	             2032	            2847	                     2016	        57500	          39950	          56522	                   39872	                        283074	                           193165	                         279502	                                   192761	                      327850	                         224019	                       324259	                                 223596	

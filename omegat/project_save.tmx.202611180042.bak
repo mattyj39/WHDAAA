@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Eh!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003347Z" creationid="demon" creationdate="20261118T003347Z">
+        <seg>[fuzzy]Come hai combinato questo disordine per Emilia-sama?"&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Il ragazzo si mostrò tradito per un momento, prima di infuriarsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Fufuf~!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003214Z" creationid="demon" creationdate="20261118T003214Z">
+        <seg>[fuzzy]"Fufuf~! Pensi che io sia bloccata con tutti voi?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003036Z" creationid="demon" creationdate="20261118T003036Z">
+        <seg>[fuzzy]Capitolo 2: Ep 1 Director's Cut &lt;p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004219Z" creationid="demon" creationdate="20261118T004204Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Non capisco… non ci sono neanche razze miste nel suo mondo?" Felix chiese all'unica persona disposta a rispondere a una tale domanda.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;em&gt;"Perché parla come se potesse predire la nostra storia semplicemente guardando intorno alla città?" Julius chiese con il petto gonfio e i suoi occhi puntati su Subaru per la sua attitudine irrispettosa; non apprezzando come il ragazzo stesse ammucchiando Lugunica con il resto del mondo dicendo, 'guerre e altro'.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004119Z" creationid="demon" creationdate="20261118T004048Z">
+        <seg>&lt;p&gt;&lt;em&gt;"Perché parla come se potesse predire la nostra storia semplicemente guardando intorno alla città?" Julius chiese con il petto gonfio e i suoi occhi puntati su Subaru per la sua attitudine irrispettosa; non apprezzando come il ragazzo stesse ammucchiando Lugunica con il resto del mondo dicendo, 'guerre e altro'.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;p&gt;&lt;em&gt;Beatrice scosse semplicemente la testa con un'espressione salda che diceva che quell'argomento andava ignorato immediatamente… Non voleva dilungarsi sul perché il mondo di Subaru ancora persino più razzialmente diviso del loro… Né la stupidità della sua razza per aver scelto scuse così patetica per andare in guerra.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T004136Z" creationid="demon" creationdate="20261118T004136Z">
+        <seg>&lt;p&gt;&lt;em&gt;Beatrice scosse semplicemente la testa con un'espressione salda che diceva che quell'argomento andava ignorato immediatamente… Non voleva dilungarsi sul perché il mondo di Subaru ancora persino più razzialmente diviso del loro… Né la stupidità della sua razza per aver scelto scuse così patetica per andare in guerra.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;"Subaru?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003350Z" creationid="demon" creationdate="20261118T003350Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt;&lt;strong&gt;"Così non va… Non va per nulla…" La persona parlò mentre si affaticava e rantolava dal dolore.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Emilia e la sua fazione si sporsero in fretta con attenzione e preoccupazione riconoscendo quello che la ragazza dai capelli blu aveva già fatto.&lt;/em&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;*THUMP!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003354Z" creationid="demon" creationdate="20261118T003354Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt; &lt;strong&gt;*THUMP!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Ah, Anastasia Hoshin.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003305Z" creationid="demon" creationdate="20261118T003305Z">
+        <seg>[fuzzy]&lt;p&gt; &lt;strong&gt;Ah, Anastasia Hoshin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Favore?</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003307Z" creationid="demon" creationdate="20261118T003307Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt;"Il mondo va in mio fav-"&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;strong&gt;Suddenly turning to see what the shouting was about, his sharp eyes quickly fell on a situation causing panic through the crowed of civilians around him.</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003414Z" creationid="demon" creationdate="20261118T003414Z">
+        <seg>[fuzzy]&lt;p&gt;&lt;em&gt; &lt;strong&gt;Suddenly turning to see what the shouting was about, his sharp eyes quickly fell on a situation causing panic through the crowed of civilians around him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its my chance!</seg>
+      </tuv>
+      <tuv lang="it-IT" changeid="demon" changedate="20261118T003414Z" creationid="demon" creationdate="20261118T003414Z">
+        <seg>[fuzzy]She couldn't help but feel fondly for him, though knowing how reckless and idiotic he can be.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;strong&gt;"This is it!</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
